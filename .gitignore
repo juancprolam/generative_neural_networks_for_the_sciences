@@ -1,1 +1,7 @@
 .venv/
+
+#Ignore original ex01 files
+ex01/
+generative_baselines/
+
+
