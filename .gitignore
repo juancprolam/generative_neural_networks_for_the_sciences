@@ -2,7 +2,11 @@
 
 #Ignore original ex01 files
 /ex01.ipynb
+/ex01.pdf
+/ex01.zip
 /generative_baselines.html
+/generative_baselines.ipynb
+/generative_baselines.pdf
 
 
 *.pdf
