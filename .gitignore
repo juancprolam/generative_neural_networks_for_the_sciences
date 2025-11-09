@@ -1,8 +1,8 @@
 .venv/
 
 #Ignore original ex01 files
-/ex01
-/generative_baselines
+/ex01.ipynb
+/generative_baselines.html
 
 
 *.pdf
